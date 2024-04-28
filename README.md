@@ -1,4 +1,3 @@
-Sure, here's a template for a README file for your GitHub repository for the "Ecommerce website using PHP" project:
 
 ---
 
@@ -49,10 +48,5 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-Special thanks to [mention any libraries or resources used in the project here].
 
 ---
-
-Feel free to customize this README file to fit the specifics of your project, including any additional information, instructions, or acknowledgments!
