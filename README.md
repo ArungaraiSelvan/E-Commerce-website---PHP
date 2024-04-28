@@ -12,4 +12,5 @@
 **Admin Login Details**
 
 Email   : admin@mail.com
+
 Password: 1234567890
